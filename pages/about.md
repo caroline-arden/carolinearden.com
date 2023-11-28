@@ -5,6 +5,7 @@ title: "Caroline Arden"
 teaser: "Bio starts here..."
 permalink: "/about/"
 breadcrumb: false
+skip_boilerplate: true
 header:
    image_fullwidth: "header_unsplash_leaf.jpg"
 ---

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Short stories and essays"
+title: "Short pieces"
 #subheadline: "Caroline Arden"
 #teaser: "Bio starts here..."
 permalink: "/shorts/"
 breadcrumb: false
+skip_boilerplate: true
 header:
    image_fullwidth: "header_unsplash_leaf.jpg"
 ---

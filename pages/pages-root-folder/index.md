@@ -5,25 +5,26 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+skip_boilerplate: true
 sidebar: left
 header:
   title: Caroline Arden
-  image_fullwidth: header_unsplash_leaf.jpg
+  background-color: "#000535;"
 widget1:
-  title: "Bio and CV"
+  title: "Bio"
   url: '/about/'
   image: caroline.jpeg
-  text: 'About Caroline Arden'
+#  text: 'About Caroline Arden'
 widget2:
-  title: "Short Stories"
+  title: "Short Pieces"
   url: '/shorts/'
-  image: widget-1-302x182.jpg
-  text: 'Short stories'
+  image: header_unsplash_leaf_400x400.png
+#  text: 'Short stories'
 widget3:
   title: "The High Climber of Dark Water Bay"
   url: 'https://bookshop.org/p/books/the-high-climber-of-dark-water-bay-caroline-arden/9761800'
   image: highclimber.jpg
-  text: 'The High Climber of Dark Water Bay'
+  #text: 'The High Climber of Dark Water Bay'
 
 #
 # Use the call for action to show a button on the frontpage
