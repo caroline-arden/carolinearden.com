@@ -4,6 +4,7 @@ title: "Short stories and essays"
 #subheadline: "Caroline Arden"
 #teaser: "Bio starts here..."
 permalink: "/shorts/"
+breadcrumb: false
 header:
    image_fullwidth: "header_unsplash_leaf.jpg"
 ---
