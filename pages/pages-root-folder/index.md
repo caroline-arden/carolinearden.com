@@ -8,7 +8,7 @@ layout: frontpage
 sidebar: left
 header:
   title: Caroline Arden
-  image_fullwidth: header_homepage_13.jpg
+  image_fullwidth: header_unsplash_leaf.jpg
 widget1:
   title: "Bio and CV"
   url: '/about/'
@@ -16,12 +16,12 @@ widget1:
   text: 'About Caroline Arden'
 widget2:
   title: "Short Stories"
-  url: '/stories/'
+  url: '/shorts/'
   image: widget-1-302x182.jpg
   text: 'Short stories'
 widget3:
   title: "The High Climber of Dark Water Bay"
-  url: '/highclimber/'
+  url: 'https://bookshop.org/p/books/the-high-climber-of-dark-water-bay-caroline-arden/9761800'
   image: highclimber.jpg
   text: 'The High Climber of Dark Water Bay'
 

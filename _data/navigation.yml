@@ -1,11 +1,3 @@
 - title: Home
   url: "/"
   side: left
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right

@@ -25,13 +25,26 @@ $body-bg            : #fdfdfd;
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
+/* Color Theme Swatches in Hex */
+$camouflage-green-1-hex: #384328;
+$camouflage-green-2-hex: #516324;
+$camouflage-green-3-hex: #6E9058;
+$camouflage-green-4-hex: #406C47;
+$camouflage-green-5-hex: #185662;
 
-$ci-1               : #334D5C; // dark turquoise
-$ci-2               : #45B29D; // turquoise
-$ci-3               : #EFC94C; // yellow
-$ci-4               : #E27A3F; // orange
-$ci-5               : #DF4949; // red
-$ci-6               : #A1D044; // green
+/* Color Theme Swatches in Hex */
+$Vintage-look-1-hex: #F79E6B;
+$Vintage-look-2-hex: #F7CD82;
+$Vintage-look-3-hex: #5B584F;
+$Vintage-look-4-hex: #92A78C;
+$Vintage-look-5-hex: #E0D5AD;
+
+$ci-1               : $Vintage-look-1-hex;
+$ci-2               : $Vintage-look-2-hex;
+$ci-3               : $Vintage-look-3-hex;
+$ci-4               : $Vintage-look-4-hex;
+$ci-5               : $Vintage-look-5-hex;
+$ci-6               : $Vintage-look-1-hex;
 
 
 

@@ -40,7 +40,7 @@ video:
 #
 sidebar: left
 comments: true
-breadcrumb: true
+breadcrumb: false
 show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
 meta_description:
